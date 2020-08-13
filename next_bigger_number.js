@@ -5,7 +5,6 @@ function nextBigger(n){
   let allVariations = [];
   console.log(newArr)
   
- 
 }
 
 
